@@ -1,0 +1,5 @@
+The base case is going to be when the length of drawing is going to be below a certain point, since each time we make more branches the amount of distance turtle has to draw is cut. 
+
+How much forward the turtle is going to draw, and each time the function is called it divides by 2 the distance it will go 
+
+Get the turtle to do basic drawings, create the base of the tree and one branch split, and then get mutiple branch splits.
